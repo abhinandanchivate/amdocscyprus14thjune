@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T12:46:44.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" version="14.7.0" etag="b0IV_1D7YNbG9uzNR0VW" type="github"><diagram id="E_l7k4aUhxJDdED8kRiP">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-16T12:57:27.667Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="Z0rAkj2T8ownNTb1ZbAY" version="14.7.0" type="github">
+  <diagram id="E_l7k4aUhxJDdED8kRiP" name="Page-1">
+    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JIOfMIoEPQCoDjwHj-84-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="450" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="JIOfMIoEPQCoDjwHj-84-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="100" width="330" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JIOfMIoEPQCoDjwHj-84-3" value="Application" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="70" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JIOfMIoEPQCoDjwHj-84-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="230" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JIOfMIoEPQCoDjwHj-84-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="165" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JIOfMIoEPQCoDjwHj-84-7" value="mail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="110" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JIOfMIoEPQCoDjwHj-84-8" value="ftp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JIOfMIoEPQCoDjwHj-84-9" value="db" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JIOfMIoEPQCoDjwHj-84-10" value="Shell" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JIOfMIoEPQCoDjwHj-84-11" value="Kernel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="250" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JIOfMIoEPQCoDjwHj-84-13" value="Hardware" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JIOfMIoEPQCoDjwHj-84-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JIOfMIoEPQCoDjwHj-84-14" target="JIOfMIoEPQCoDjwHj-84-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JIOfMIoEPQCoDjwHj-84-14" value="List of Shells :&lt;br&gt;1. bash&lt;br&gt;2. ksh&lt;br&gt;3. sh&lt;br&gt;4. vi&lt;br&gt;5. env&lt;br&gt;6. ed&lt;br&gt;etc" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="110" width="120" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
