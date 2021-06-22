@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T13:57:33.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="O20YlIYX77k5JOrH1j7O" version="14.7.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-22T12:43:45.976Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="AXO1fAaKSKOf4sgZ_lED" version="14.8.0" type="github" pages="3">
   <diagram id="E_l7k4aUhxJDdED8kRiP" name="Page-1">
     <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,6 +89,82 @@
         </mxCell>
         <mxCell id="fngIUUZVcVo9yIqXlYL2-13" value="output for join(result)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="fngIUUZVcVo9yIqXlYL2-1">
           <mxGeometry x="220" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PkXOt3yCS6GWwOW0hUPZ" name="PLSQL ARCH">
+    <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-0" />
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-1" parent="gMWAPUPCMnQfn1SdUyi1-0" />
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gMWAPUPCMnQfn1SdUyi1-1" source="gMWAPUPCMnQfn1SdUyi1-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMWAPUPCMnQfn1SdUyi1-1">
+          <mxGeometry x="160" y="30" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-3" value="PL/SQL Block" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMWAPUPCMnQfn1SdUyi1-1">
+          <mxGeometry x="180" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-4" value="SQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMWAPUPCMnQfn1SdUyi1-1">
+          <mxGeometry x="270" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-5" value="PL/SQL Unit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMWAPUPCMnQfn1SdUyi1-1">
+          <mxGeometry x="380" y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-6" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="gMWAPUPCMnQfn1SdUyi1-1">
+          <mxGeometry x="111.25" y="260" width="577.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-8" value="PL/SQL Engine" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMWAPUPCMnQfn1SdUyi1-1">
+          <mxGeometry x="370" y="280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gMWAPUPCMnQfn1SdUyi1-1" source="gMWAPUPCMnQfn1SdUyi1-9" target="gMWAPUPCMnQfn1SdUyi1-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="520" />
+              <mxPoint x="170" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.6;entryY=1.078;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gMWAPUPCMnQfn1SdUyi1-1" source="gMWAPUPCMnQfn1SdUyi1-9" target="gMWAPUPCMnQfn1SdUyi1-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="390" />
+              <mxPoint x="550" y="390" />
+              <mxPoint x="550" y="360" />
+              <mxPoint x="562" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-9" value="SQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMWAPUPCMnQfn1SdUyi1-1">
+          <mxGeometry x="140" y="310" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gMWAPUPCMnQfn1SdUyi1-1" source="gMWAPUPCMnQfn1SdUyi1-10" target="gMWAPUPCMnQfn1SdUyi1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-10" value="PL/SQL units/sta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMWAPUPCMnQfn1SdUyi1-1">
+          <mxGeometry x="290" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-11" value="pl/sql statements are executed by EXECUTOR" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="gMWAPUPCMnQfn1SdUyi1-1">
+          <mxGeometry x="490" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-13" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="gMWAPUPCMnQfn1SdUyi1-1">
+          <mxGeometry x="90" y="560" width="560" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="gMWAPUPCMnQfn1SdUyi1-1" source="gMWAPUPCMnQfn1SdUyi1-15" target="gMWAPUPCMnQfn1SdUyi1-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-15" value="SQL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="gMWAPUPCMnQfn1SdUyi1-1">
+          <mxGeometry x="140" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-16" value="SQL executor." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="gMWAPUPCMnQfn1SdUyi1-1">
+          <mxGeometry x="340" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gMWAPUPCMnQfn1SdUyi1-18" value="DB server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gMWAPUPCMnQfn1SdUyi1-1">
+          <mxGeometry x="470" y="580" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
